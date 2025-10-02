@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Oct 02 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.html ([@project594](https://github.com/project594))
+
+#### Authors: 1
+
+- YUBO Charmer ([@project594](https://github.com/project594))
+
+---
+
 # v0.0.1 (Thu Oct 02 2025)
 
 :tada: This release contains work from a new contributor! :tada:
